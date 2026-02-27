@@ -1,7 +1,7 @@
 // Nama File   : Mtitik.java
 // Deskripsi   : Berisi objek Titik dan memanggil method yang telah dibuat di class titik
 // Pembuat     : Joshua Satria Kusuma - 24060124130113
-// Tangga;     : 19 Februari 2026
+// Tangga;     : 28 Februari 2026
 
 public class Mtitik {
     public static void main(String[] args) {
