@@ -1,10 +1,10 @@
-package pertemuan10;
+
 import java.util.ArrayList;
 
 public class LambdaList {
     public static void main(String[] args) {
 
-        Arraylist<String> mahasiswalist = new Arraylist<>();
+        ArrayList<String> mahasiswalist = new ArrayList<>();
         mahasiswalist.add("Adi");
         mahasiswalist.add("Bambang");
         mahasiswalist.add("Cici");
